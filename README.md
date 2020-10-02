@@ -7,6 +7,9 @@
 * Reminder: If only one day is left then you get reminder to reissue/return your book immediately.
 * Mailer: A mail using SMTP is sent if the books are reissued automaticaly or they can't be ressued online anymore.
 
+## Dependencies
+lastest version of python must be installed on system .
+
 ## Setup
 Clone or download the repo.
 ### To Clone:
